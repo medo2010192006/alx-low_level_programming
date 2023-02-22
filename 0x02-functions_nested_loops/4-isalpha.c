@@ -1,4 +1,3 @@
-#include "holberton.h"
 /**
  * _isalpha - Check Main
  * @c: An input character
